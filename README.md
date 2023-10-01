@@ -1,5 +1,3 @@
-Certainly! Here's a similar documentation template for a React project with the `REACT_APP_API_BASE_URL` environment variable:
-
 # Planner Project Documentation
 
 ## Introduction
