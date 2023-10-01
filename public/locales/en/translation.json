@@ -1,0 +1,13 @@
+{
+  "dailyTaskPlanner": "Daily Task Planner",
+  "chooseDate": "Choose date",
+  "taskLabel": "Task",
+  "add": "Add",
+  "tasksHeading": "Tasks:",
+  "editTaskLabel": "Edit task",
+  "save": "Save",
+  "cancel": "Cancel",
+  "errorCode": "404",
+  "errorDescription": "Sorry, page not found!",
+  "goToHomepage": "Go to Homepage"
+}
